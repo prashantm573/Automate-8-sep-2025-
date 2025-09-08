@@ -13,4 +13,9 @@ public class testng{
 	 public void Roll_no() {
 		 System.out.println("THis is my roll not");
 	 }
+	 
+	 @Test 
+	 public void Classnamr() {
+		 System.out.println("THis is my class name");
+	 }
 }
